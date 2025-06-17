@@ -1,1 +1,1 @@
-#### Open CV - tutorials, practice and projects
+### Open CV - tutorials, practice and projects
